@@ -18,6 +18,23 @@
 *.zip
 *.tar.gz
 *.rar
-
+*.vscode
+*.classpath
+*.project
+settings/
+target/
+*.txt
+*.lst
+*.prefs
+DataStructures/project/stage2/target/surefire-reports/TEST-edu.yu.cs.com1320.project.stage2.impl.DocumentStoreImplTest.xml
+DataStructures/project/stage2/target/surefire-reports/TEST-edu.yu.cs.com1320.project.stage2.impl.DocumentStoreStageTwoTests.xml
+DataStructures/project/stage2/target/surefire-reports/TEST-edu.yu.cs.com1320.project.TwoTest.xml
+DataStructures/project/stage2/target/surefire-reports/TEST-edu.yu.cs.com1320.project.UndoTest.xml
+DataStructures/DS.code-workspace
+DataStructures/project/stage5/src/test/java/edu/yu/cs/com1320/project/stage5/impl/GsonTesting.java
+DataStructures/project/stage5/src/test/java/edu/yu/cs/com1320/project/stage5/impl/GsonTestingTxT.java
+DataStructures/project/stage5/src/test/java/edu/yu/cs/com1320/project/stage5/impl/GsontestingByte.java
+DataStructures/project/stage5/src/test/java/edu/yu/cs/com1320/project/stage5/impl/JsonEncodeDecode.java
+DataStructures/se-practice/week2/bin/pom.xml
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
