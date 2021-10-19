@@ -7,6 +7,8 @@ package game.rps.project.RPSGame;
 import java.util.Random;
 import java.util.Scanner;
 
+import game.rps.project.Game;
+
 public class RockPaperScissors implements Game
 {
 	private String name;
