@@ -6,3 +6,9 @@ Repository containing notable projects from Yeshiva University courses and outsi
 
 <p><a href = "https://github.com/YaakovBaker/Projects/tree/main/YeshivaUniversityCS/IntroToCS/Doom/assignment9/edu/yu/cs/intro/doomGame"><Strong>Doom Video Game Simulation</Strong></a>
   <br>•	Coded a Video Game Simulation of Doom with Java as the final project for Intro to Computer Science. This consisted of two files containing enums for the Weapons, and MonsterTypes. The Player, Monster, and Room objects. And the class that ran the simulations: GameBot. 
+  
+<p><a href = "https://github.com/YaakovBaker/Projects/tree/main/MyProjects/RockPaperScissors/rpsgame"><Strong>Command Line Rock, Paper, Scissors</Strong></a>
+  <br>•	Built a command line rock, paper, scissors game in Java by having the user input the number of wins needed, then have the program pick a random choice from an array of choices and then compares it to the option the user inputs tracking the score until a player wins.
+  
+<p><a href = "https://github.com/YaakovBaker/Projects/tree/main/YeshivaUniversityCS/DS_Semester_Project_Final/DataStructures/project/stage5"><Strong>Document Storage System</Strong></a>
+  <br>•	Built a Document Storage System with Java in Data Structures. It utilized various Data Structures we learned about in that course: Trie (searching), Stack (undo actions), Heap (last use time), BTree (storage).
